@@ -2,10 +2,10 @@
 
 > ## Latest Release
 > 
-> **Release:** PZMA 0.0.1
+> **Release:** PZMA v0.0.1
 > 
 > **Download:**  
->     LINK
+>     [Click Here](https://github.com/deanrexx/PZMA/blob/7fd196b3c80f68380080a2f5d09585fa1c3b4462/Versions/version-0-0-1.zip)
 > 
 > **Notes:**  
 > * Fixed issue with program not running.
@@ -13,7 +13,7 @@
 
 ## History
 
-* 0.0.2 - Creating Installer
-* 0.0.1 - Bug Testing and Fine Tuning
-  * Download: Versions/version-0-0-1.zip
+* v0.0.2 - Creating Installer
+* v0.0.1 - Bug Testing and Fine Tuning
+  * [Download](https://github.com/deanrexx/PZMA/blob/7fd196b3c80f68380080a2f5d09585fa1c3b4462/Versions/version-0-0-1.zip)
 
