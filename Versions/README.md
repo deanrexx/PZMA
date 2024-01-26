@@ -4,5 +4,5 @@
 
 * 0.0.2 - Creating Installer
 * 0.0.1 - Bug Testing and Fine Tuning
-  * Download: d
+  * Download: Versions/version-0-0-1.zip
 
