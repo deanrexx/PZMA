@@ -10,9 +10,10 @@ time consuming. So I thought to myself, "I wonder if there are any IDEs for maki
 
 No. No there is not, obviously... So why not make it myself :D
 
-# Latest Version
-
-https://github.com/deanrexx/PZMA/blob/f9d0ec27e232da4533dde314088358d2dca306b3/Versions/version-0-0-1.zip
+> ## Latest Version
+> 
+> **Download:**
+> [Click Here](https://github.com/deanrexx/PZMA/blob/f9d0ec27e232da4533dde314088358d2dca306b3/Versions/version-0-0-1.zip)
 
 # Current Features
 
