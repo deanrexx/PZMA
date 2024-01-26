@@ -13,3 +13,8 @@ No. No there is not, obviously... So why not make it myself :D
 # Latest Version
 
 https://github.com/deanrexx/PZMA/blob/f9d0ec27e232da4533dde314088358d2dca306b3/Versions/version-0-0-1.zip
+
+# Current Features
+
+* Incredible design
+* Nothing else. Unless you count the 3 hours it took me to figure out how to make a custom title bar and scrap the crappy Windows one.
