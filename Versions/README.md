@@ -1,13 +1,15 @@
 # Versions
 
-## Latest Release
-
-**Release:** PZMA 0.0.1
-**Download:** 
-    LINK
-**Notes:**
-    * Fixed issue with program not running.
-    * Bare-bones. No development features.
+> ## Latest Release
+> 
+> **Release:** PZMA 0.0.1
+> 
+> **Download:**  
+>     LINK
+> 
+> **Notes:**  
+> * Fixed issue with program not running.
+> * Bare-bones. No development features.
 
 ## History
 
