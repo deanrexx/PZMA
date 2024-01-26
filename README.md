@@ -36,9 +36,23 @@ No. No there is not, obviously... So why not make it myself :D<br>
 <br>
 <br>
 
+# Requirements
+
+PZMA requires the latest version of Python to be installed.
+
+Windows:
+* 32-bit: [Download](https://www.python.org/ftp/python/3.12.1/python-3.12.1.exe)<br>
+* 64-bit (Recommended): [Download](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
+
+Linux/UNIX: [Download](https://www.python.org/downloads/release/python-3121/)<br>
+MacOS: [Download](https://www.python.org/ftp/python/3.12.1/python-3.12.1-macos11.pkg)<br>
+Other: [Download](https://www.python.org/download/other/)
+<br>
+<br>
+
 # Current Features
 
-* Incredible design - in my opinion atleast
+* Incredible design - in my opinion atleast.
 * Nothing else. Unless you count the 3 hours it took me to figure out how to make a custom title bar and scrap the crappy Windows one.
 <br>
 <br>
