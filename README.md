@@ -1,3 +1,3 @@
 # Project Zomboid Modder's Assistant
 
-## (PZMA)
+## (PZMA) - The easiest way to make Project Zomboid mods.
