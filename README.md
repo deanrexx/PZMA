@@ -1,4 +1,4 @@
-# **Project Zomboid Modder's Assistant**
+IMAGE
 <br>
 <br>
 
