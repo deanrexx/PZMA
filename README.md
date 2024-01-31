@@ -40,7 +40,7 @@ No. No there is not, obviously... So why not make it myself :D<br>
 * Program does not show up on desktop taskbar unless minimized.
 * Program is sometimes flagged as malware/virus by some browsers/operating systems. (It isn't malware or a virus)<br>
 
-### [Download PZMA v0.0.3](https://github.com/deanrexx/PZMA/blob/f32f374d59a3677d7dd10c00fd124e9b5fd7d0b0/Versions/PZMA%20v0.0.3.zip)<br><br>
+### [Download PZMA v0.0.3](https://github.com/deanrexx/PZMA/raw/home/Versions/PZMA%20v0.0.3.zip)<br><br>
 
 # Requirements
 
