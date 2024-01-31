@@ -25,10 +25,10 @@ No. No there is not, obviously... So why not make it myself :D<br>
 <br>
 
 # Latest Release
-**Release:** PZMA v0.0.1
+**Release:** PZMA v0.0.3
 
 **Download:**  
-    [Click Here](https://github.com/deanrexx/PZMA/blob/7fd196b3c80f68380080a2f5d09585fa1c3b4462/Versions/version-0-0-1.zip)
+    [Click Here](https://github.com/deanrexx/PZMA/blob/f32f374d59a3677d7dd10c00fd124e9b5fd7d0b0/Versions/PZMA%20v0.0.3.zip)
 
 **Notes:**  
 * Fixed issue with program not running.
