@@ -31,8 +31,17 @@ No. No there is not, obviously... So why not make it myself :D<br>
     [Click Here](https://github.com/deanrexx/PZMA/blob/f32f374d59a3677d7dd10c00fd124e9b5fd7d0b0/Versions/PZMA%20v0.0.3.zip)
 
 **Notes:**  
-* Fixed issue with program not running.
-* Bare-bones. No development features.
+* Designed toolbar drop-down menus.
+* Added toolbar drop-down menus.
+* Added Twitch re-direct button functionality.
+* Added YouTube re-direct button functionality.
+* Removed "window" toolbar tab.
+* Bare-bones. No development features.<br><br>
+
+**Known Bugs:**
+* Program window will sometimes disappear when switching focus to another program.
+* Program does not show up on desktop taskbar unless minimized.
+* Program is sometimes flagged as malware/virus by some browsers/operating systems. (It isn't malware or a virus)
 <br>
 <br>
 
